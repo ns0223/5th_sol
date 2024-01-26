@@ -1,0 +1,13 @@
+numpy
+pandas
+plotly
+tslearn
+statsmodels
+stumpy
+tensorflow
+keras
+numba
+gurobipy
+ipykernel
+nbformat
+
